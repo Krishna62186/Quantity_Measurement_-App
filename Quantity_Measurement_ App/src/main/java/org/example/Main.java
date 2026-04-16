@@ -1,4 +1,4 @@
-public class QuantityMeasurementApp {
+public class main {
 
     // Inner class representing Feet measurement
     static class Feet {
